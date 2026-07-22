@@ -1,0 +1,18 @@
+data,produto,categoria,quantidade,preco_unitario
+2025-01-05,Notebook,Eletrônicos,2,3500
+2025-01-10,Mouse,Eletrônicos,5,80
+2025-01-15,Teclado,Eletrônicos,3,150
+2025-02-03,Camiseta,Roupas,10,50
+2025-02-08,Calça,Roupas,6,120
+2025-02-20,Tênis,Roupas,4,250
+2025-03-05,Notebook,Eletrônicos,1,3500
+2025-03-12,Fone de Ouvido,Eletrônicos,8,120
+2025-03-25,Mochila,Acessórios,5,180
+2025-04-02,Relógio,Acessórios,3,300
+2025-04-18,Camiseta,Roupas,12,50
+2025-05-06,Tênis,Roupas,5,250
+2025-05-15,Mouse,Eletrônicos,10,80
+2025-05-28,Mochila,Acessórios,4,180
+2025-06-10,Notebook,Eletrônicos,2,3500
+2025-06-20,Relógio,Acessórios,2,300
+2025-06-25,Calça,Roupas,7,120
